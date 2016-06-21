@@ -6,7 +6,7 @@ cslauv website
   
    Also, please send out a message to slack to notify that there's a change waiting for approval.
    
-   **Here is the Github tutorial for those still learning how to use github: https://guides.github.com/activities/hello-world/**
+   **Here is the GitHub tutorial for those still learning: https://guides.github.com/activities/hello-world/**
   
     Let's finish this guys :)
 </p>
